@@ -39,8 +39,9 @@ This project includes:
 
 ## 🖼️ Screenshot
 
+![WhatsApp Image 2025-04-15 at 11 30 00_388ef9d5](https://github.com/user-attachments/assets/712a9244-51e9-47da-b41a-97d478b67244)
 
-![Web App Screenshot](static/screenshot.png)
+
 
 ---
 
